@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "251986648313",
+    "firebase_url": "https://sau-indoor-navigation.firebaseio.com",
+    "project_id": "sau-indoor-navigation",
+    "storage_bucket": "sau-indoor-navigation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251986648313:android:9fc47b4fd0d3764f",
+        "android_client_info": {
+          "package_name": "com.kadirkaya.saubilmuhnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251986648313-3c7n7ea0p4q1qdlqn1o68e315eb7g7hq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kadirkaya.saubilmuhnavigation",
+            "certificate_hash": "ecb425a2bfc7df7040c735fb70d7ff068906d0b0"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVmzRGjLGYOyRjP8TVokwyJKGMPuQ1Bs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251986648313-va1mv5mhh17ki65m8cdssk8tgltm1qcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

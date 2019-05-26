@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item1"
+            android:icon="@drawable/navigation_logo2"
+            android:title="Cüneyt BAYILMIŞ" />
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/navigation_logo2"
+            android:title="Sekreterya" />
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/navigation_logo2"
+            android:title="Farklı Hedef Seç" />
+        <item
+            android:id="@+id/item4"
+            android:icon="@drawable/navigation_logo2"
+            android:title="Bağlantı Kur" />
+        <item
+            android:id="@+id/item5"
+            android:icon="@drawable/navigation_logo2"
+            android:title="Çıkış" />
+    </group>
+
+
+
+</menu>
